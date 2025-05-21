@@ -1,7 +1,7 @@
-title: Long Haul
+title: Jordan Pitman's Website
 description: Long Form Jekyll theme built with SASS
 
-url: https://long-haul.netlify.app
+url: https://jordan-pitman.github.io
 # Only necessary when hosting your site in a sub-directory. Project sites hosted on GitHub Pages are the common use-case of this variable.
 baseurl: # Ex: /project-page
 paginate_path: "blog/page:num/"
@@ -27,15 +27,15 @@ navigation:
       url: /contact
 
 social:
-    github: brianmaierjr
-    twitter: brianmaierjr
-    facebook: brianmaierjr
-    email: brimaidesigns@gmail.com
-    linkedin: brianmaierjr
-    youtube: RickAstleyYT
-    tumblr: i-am-a-fish
+    github: jordan-pitman
+    twitter: #brianmaierjr
+    facebook: #brianmaierjr
+    email: jordangpitman@gmail.com
+    linkedin: www.linkedin.com/in/jordan-pitman
+    youtube: #RickAstleyYT
+    tumblr: #i-am-a-fish
 
-google_analytics: "UA-58263416-1"
+google_analytics: #"UA-58263416-1"
 
 disqus:
-    shortname: brianmaierjr
+    shortname: jordan-pitman
