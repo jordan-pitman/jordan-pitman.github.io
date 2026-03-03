@@ -1,10 +1,10 @@
 # Site settings
-title: Freelancer
+title: Jordan Pitman
 email: jordangpitman@gmail.com
 url: https://jordan-pitman.github.io
 description: "Jordan Pitman's Awesome Personal Website!"
 keywords: "research, academic, biomedical, professional"
-skills: "Biomedical Researcher - Avid Learner - Science Communicator and Advocate"
+skills: "Biomedical Researcher | Predictive Modeling and Clinical Data Science | Expanding Equitable Access to Care"
 meta_author: Pitman Jordan
 
 # Google webmaster tools
@@ -52,8 +52,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 1905 Anderson Road
+  - line: Davis, CA 95616
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
