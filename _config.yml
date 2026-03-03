@@ -41,14 +41,10 @@ footer:
 social:
   - title: linkedin
     url: https://www.linkedin.com/in/jordan-pitman
-  - title: 
-    url:
-  - title: stack-overflow
-    url: 
-  - title: 
-    url: 
   - title: github
     url: http://github.com/jordan-pitman
+  - title: instagram
+    url: https://www.instagram.com/it.jp.like.that.sometimes?igsh=NTc4MTIwNjQ2YQ%3D%3D&utm_source=qr
 
 # Postal address (add as many lines as necessary)
 address:
